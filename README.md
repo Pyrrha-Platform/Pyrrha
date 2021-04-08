@@ -6,7 +6,7 @@ In the face of natural disasters, such as wildfires, Prometeo protects those who
 
 ## Prometeo Platform v4
 
-The fourth version of the Prometeo Platform is nearing completion, and will soon be a Call for Code® with The Linux Foundation project.
+The fourth version of the Prometeo Platform is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will likely carry on as a separate name distinct from the Prometeo trademark.
 
 * [Prometeo](https://github.com/Call-for-Code/Prometeo)
 * [Prometeo-Firmware](https://github.com/Call-for-Code/Prometeo-Firmware)
