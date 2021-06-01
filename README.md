@@ -4,17 +4,17 @@
 
 In the face of natural disasters, such as wildfires, Prometeo protects those who protect us - the firefighters. With our solution, we've developed a prototype sensor which sends environmental telemetry (temperature, humidity, and smoke concentration). This data is processed by a machine learning algorithm which is able to predict firefighter health, indicating if they are OK, soon to be in danger, or in danger. The goal is to track real-time status, and eventually use aggregated data to make suggestions that improve health outcomes in the long run.
 
-## Prometeo Platform v4
+## Prometeo Platform v4 (Pyrrha)
 
-The fourth version of the Prometeo Platform is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will likely carry on as a separate name distinct from the Prometeo trademark.
+The fourth version of the Prometeo Platform is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo trademark, Pyrrha, who is the daughter-in-law of Prometheus in Greek mythology.
 
-* [Prometeo](https://github.com/Call-for-Code/Prometeo)
-* [Prometeo-Firmware](https://github.com/Call-for-Code/Prometeo-Firmware)
-* [Prometeo-Dashboard](https://github.com/Call-for-Code/Prometeo-Dashboard)
-* [Prometeo-Database](https://github.com/Call-for-Code/Prometeo-Database)
-* [Prometeo-Rules-Decision](https://github.com/Call-for-Code/Prometeo-Rules-Decision)
-* [Prometeo-Watch-App](https://github.com/Call-for-Code/Prometeo-Watch-App)
-* [Prometeo-Mobile-App](https://github.com/Call-for-Code/Prometeo-Mobile-App)
-* [Prometeo-WebSocket-Server](https://github.com/Call-for-Code/Prometeo-WebSocket-Server)
-* [Prometeo-MQTT-Client](https://github.com/Call-for-Code/Prometeo-MQTT-Client)
-* [Prometeo-Sensor-Simulator](https://github.com/Call-for-Code/Prometeo-Sensor-Simulator)
+* [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha)
+* [Pyrrha-Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)
+* [Pyrrha-Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)
+* [Pyrrha-Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)
+* [Pyrrha-Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)
+* [Pyrrha-Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)
+* [Pyrrha-Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)
+* [Pyrrha-WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)
+* [Pyrrha-MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)
+* [Pyrrha-Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)
