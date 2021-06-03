@@ -6,18 +6,17 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 
 
 ## Pyrrha Team
-| Name | Title | Email | Slack |
+| Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Upkar Lidder | Technical Lead | Ulidder@us.ibm.com | @Upkarlidder |
-| Daniel Krook | CTO | Krook@us.ibm.com | @Krook |
-| John Segrave | Lead Data Scientist & Technical Product Manager | John.segrave@ie.ibm.com | @Jsegrave |
-| Marco Emilio Rodriguez Serrano | --- | Marco.Rodriguez.Serrano@ibm.com | @Marco.rodriguez.serra |
-| Salome Valero Cumplido | --- | Salome.valero@es.ibm.com | @Salaome.valero |
-| Taeson Black | Tech. Solution Specialist Intern | Tae.Black@ibm.com | @Tae.black|
-| Alejandro Quijada | Tech. Solution Specialist Intern | Alejandro.Quijada@ibm.com | @Alejandro.Quijada |
+| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @Upkarlidder |
+| John Segrave | Lead Data Scientist & Technical Product Manager | [John](https://github.com/JSegrave-IBM) | @Jsegrave |
+| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
+| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
+| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
+| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
 
 ## IBM Call for Code Team
-| Name | Title | Email | Slack |
+| Name | Title | github | Slack |
 | --- | --- | --- | --- |
 | Daniel Krook | CTO | krook@us.ibm.com | @Daniel Krook |
 | Gaurav Ramakrishna | Software Developer | gaurav.ramakrishna@ibm.com | @Gaurav Ramakrishna |
@@ -29,11 +28,8 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 | ? | ? | ? | ? |
 
 ## Public Tools
-* Will use [Webex](https://ibm.webex.com/meet/gaurav.ramakrishna) for meetings - Weekly, starting with January 27 at 10pm Mongolia Time / 9am US Eastern Time
+
 * Will use [Slack in the Call for Code workspace](https://callforcode.org/slack) for chat in between meetings
-* Will use [GitHub under the Call for Code organization](https://github.com/Call-for-Code/Agrolly) to manage tasks and milestones
-* Will use [Box](https://ibm.ent.box.com/folder/128055846838) to store files and draft notes
-* Will use [Mural](https://app.mural.co/t/callforcode1602/m/callforcode1602/1608076239474/786e811f9e367d935adc8cf6e5a9ad30a60f1796) to plan using Design Thinking
 
 ## Important Links
 | Description | Link |
@@ -57,4 +53,18 @@ The fourth version of the Prometeo Platform is nearing completion, and will soon
 | Pyrrha-Websocket-Server | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server) |
 | Pyrrha-MQTT-Client | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client) |
 | Pyrrha-Sensor-Simulator | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator) |
+
+## The Story 
+Watch this video to understand the Pyrrha solution:
+
+![https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
+
+## Architecture
+![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
+
+
+
+
+
+
 
