@@ -16,14 +16,14 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 | Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
 
 ## IBM Call for Code Team
-| Name | Title | github | Slack |
+| Name | Title | Github | Slack |
 | --- | --- | --- | --- |
 | Daniel Krook | CTO | krook@us.ibm.com | @Daniel Krook |
 | Gaurav Ramakrishna | Software Developer | gaurav.ramakrishna@ibm.com | @Gaurav Ramakrishna |
 | Edrian Irizarry | Senior Software Engineer | edrian@us.ibm.com | @Edrian Irizarry |
 
 ## Other Partners
-| Name | Title | Email | Slack |
+| Name | Title | Github | Slack |
 | --- | --- | --- | --- |
 | ? | ? | ? | ? |
 
