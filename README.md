@@ -8,7 +8,7 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 ## Original Prometeo Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Josep Ràfolse | --- | --- | --- |
+| Josep Ràfolse | --- | --- | @joraco |
 | Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
 | Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
 | Joan Herrera | --- | --- | --- |
@@ -17,7 +17,7 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 ## IBM Call for Code Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Daniel Krook | CTO | krook@us.ibm.com | @Daniel Krook |
+| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @@Krook |
 | Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @Upkarlidder |
 | Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
 | Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
@@ -48,7 +48,7 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 The first version of the Pyrrha project is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo trademark, Pyrrha, who is the daughter-in-law of Prometheus in Greek mythology.
 
 ## Built with:
-*[IBM IoT Platform]()
+*[IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
 
 *[MariaDB]()
 
@@ -60,9 +60,9 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 
 *[Pandas]()
 
-*[IBM App ID]()
+*[IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
 
-*[IBM Cloud Kubernetes Service]()
+*[IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 
 ## Pyrrha Projects
 | Name | Git Repo |
