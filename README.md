@@ -38,31 +38,10 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 
 * Will use [Slack in the Call for Code workspace](https://callforcode.org/slack) for chat in between meetings
 
-## Important Links
-| Description | Link |
-| --- | --- |
-| Pyrrha Website| https://developer.ibm.com/ |
-
 ## Pyrrha Platform v1 (By-Prometeo)
 
 The first version of the Pyrrha project is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo trademark, Pyrrha, who is the daughter-in-law of Prometheus in Greek mythology.
 
-## Built with:
-*[IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
-
-*[MariaDB]()
-
-*[Express.js]()
-
-*[React.js]()
-
-*[Flask]()
-
-*[Pandas]()
-
-*[IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
-
-*[IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 
 ## Pyrrha Projects
 | Name | Git Repo |
@@ -83,8 +62,32 @@ Watch this video to understand the Pyrrha solution:
 
 ![https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
+## Built with:
+*[IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
+
+*[MariaDB]()
+
+*[Express.js]()
+
+*[React.js]()
+
+*[Flask]()
+
+*[Pandas]()
+
+*[IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
+
+*[IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
+
+
 ## Solution at a Glance : Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
 
-## LICENSE 
+## Important Links
+| Description | Link |
+| --- | --- |
+| Pyrrha Website| https://developer.ibm.com/ |
+
+
+## License
 This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/LICENSE) file for details.
