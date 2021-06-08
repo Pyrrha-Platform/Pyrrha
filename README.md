@@ -57,7 +57,7 @@ The fourth version of the Prometeo Platform is nearing completion, and will soon
 ## The Story 
 Watch this video to understand the Pyrrha solution:
 
-![https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
+[![Watch the video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
 ## Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
