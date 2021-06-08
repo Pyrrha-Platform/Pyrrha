@@ -5,24 +5,31 @@
 In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo) protects those who protect us - the firefighters. With our solution, we've developed a prototype sensor which sends environmental telemetry (temperature, humidity, and smoke concentration). This data is processed by a machine learning algorithm which is able to predict firefighter health, indicating if they are OK, soon to be in danger, or in danger. The goal is to track real-time status, and eventually use aggregated data to make suggestions that improve health outcomes in the long run.
 
 
-## Pyrrha Team
+## Original Prometeo Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @Upkarlidder |
-| John Segrave | Lead Data Scientist & Technical Product Manager | [John](https://github.com/JSegrave-IBM) | @Jsegrave |
+| Josep Ràfolse | --- | --- | --- |
 | Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
 | Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
-| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
-| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
+| Joan Herrera | --- | --- | --- |
+| Vicenç Ferrés | --- | --- | --- |
 
 ## IBM Call for Code Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
 | Daniel Krook | CTO | krook@us.ibm.com | @Daniel Krook |
-| Gaurav Ramakrishna | Software Developer | gaurav.ramakrishna@ibm.com | @Gaurav Ramakrishna |
-| Edrian Irizarry | Senior Software Engineer | edrian@us.ibm.com | @Edrian Irizarry |
+| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @Upkarlidder |
+| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
+| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
 
-## Other Partners
+## Prometeo Platform S.L. Team
+| Name | Title | Github | Slack |
+| --- | --- | --- | --- |
+| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
+| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
+| Joan Herrera | --- | --- | --- |
+
+## IBM Service Corps Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
 | ? | ? | ? | ? |
@@ -36,9 +43,26 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 | --- | --- |
 | Pyrrha Website| https://developer.ibm.com/ |
 
-## Prometeo Platform v4 (Pyrrha)
+## Pyrrha Platform v1 (By-Prometeo)
 
-The fourth version of the Prometeo Platform is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo trademark, Pyrrha, who is the daughter-in-law of Prometheus in Greek mythology.
+The first version of the Pyrrha project is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo trademark, Pyrrha, who is the daughter-in-law of Prometheus in Greek mythology.
+
+## Built with:
+*[IBM IoT Platform]()
+
+*[MariaDB]()
+
+*[Express.js]()
+
+*[React.js]()
+
+*[Flask]()
+
+*[Pandas]()
+
+*[IBM App ID]()
+
+*[IBM Cloud Kubernetes Service]()
 
 ## Pyrrha Projects
 | Name | Git Repo |
@@ -59,7 +83,7 @@ Watch this video to understand the Pyrrha solution:
 
 ![https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
-## Architecture
+## Solution at a Glance : Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
 
 
