@@ -86,4 +86,5 @@ Watch this video to understand the Pyrrha solution:
 ## Solution at a Glance : Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
 
-
+## LICENSE 
+This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/LICENSE) file for details.
