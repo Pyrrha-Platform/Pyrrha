@@ -8,19 +8,19 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 ## Pyrrha Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @Upkarlidder |
-| John Segrave | Lead Data Scientist & Technical Product Manager | [John](https://github.com/JSegrave-IBM) | @Jsegrave |
-| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
-| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
-| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
-| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
+| Upkar Lidder | Technical Lead | [upkarlidder](https://github.com/upkarlidder) | @Upkarlidder |
+| John Segrave | Lead Data Scientist & Technical Product Manager | [JSegrave-IBM](https://github.com/JSegrave-IBM) | @JSegrave |
+| Marco Emilio Rodriguez Serrano | --- | [mrodrise](https://github.com/mrodrise) | @Marco.Rodriguez.Serra |
+| Salome Valero Cumplido | --- | [svaleroc](https://github.com/svaleroc) | @Salome.Valero |
+| Taeson Black | Tech. Solution Specialist Intern | [TaeBlack](https://github.com/TaeBlack) | @Tae.Black|
+| Alejandro Quijada | Tech. Solution Specialist Intern | [Aquijada52](https://github.com/Aquijada52) | @Alejandro.Quijada |
 
 ## IBM Call for Code Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Daniel Krook | CTO | krook@us.ibm.com | @Daniel Krook |
-| Gaurav Ramakrishna | Software Developer | gaurav.ramakrishna@ibm.com | @Gaurav Ramakrishna |
-| Edrian Irizarry | Senior Software Engineer | edrian@us.ibm.com | @Edrian Irizarry |
+| Daniel Krook | CTO | [krook](https://github.com/krook) | @Daniel Krook |
+| Gaurav Ramakrishna | Software Developer | [Gaurav-Ramakrishna](https://github.com/Gaurav-Ramakrishna) | @Gaurav Ramakrishna |
+| Edrian Irizarry | Senior Software Engineer | [edriani](https://github.com/edriani) | @Edrian Irizarry |
 
 ## Other Partners
 | Name | Title | Github | Slack |
@@ -61,10 +61,3 @@ Watch this video to understand the Pyrrha solution:
 
 ## Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
-
-
-
-
-
-
-
