@@ -60,7 +60,7 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 ## The Story 
 Watch this video to understand the Pyrrha solution:
 
-![https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
+[![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
 ## Built with:
 *[IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
