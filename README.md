@@ -81,7 +81,18 @@ Watch this video to understand the Pyrrha solution:
 
 
 ## Solution at a Glance : Architecture
-![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/84807697/120704550-b537eb00-c484-11eb-9a10-ba9035c5e928.png)
+![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/3187457/122242264-08903d00-ce78-11eb-944f-804ba4dc683d.png)
+1. The firefighter logs into the mobile phone. The credentials are authenticated with IBM App ID. The next steps assume that authentication was successful. Then the firefighter scan for Prometeo devices with the mobile app and connect to the device thought bluetooth low energy.
+2. The device sensor captures gas levels. The device sends to the mobile application sensor values at regular intervals.
+3. The mobile application sends data to the IBM IoT platform.
+4. The MQTT Client service listens for incoming messages on the IBM IoT platform.
+5. The MQTT Client stores the data in the MariaDB relational database.
+6. The MQTT client sends the data to the WebSocket server.
+7. The RulesDecision service wakes up every minute to calculate the 10 mins, 30 mins, 60 mins, 4 hours, and 8 hours time-weighted averages for each gas.
+8. The dashboard queries the database to show the historical data.
+9. The dashboard connects to the Websocker Server to show live data and alerts the user if the levels go above certain pre-determined thresholds.
+10. The central control can view the dashboard using the web browser.
+11. The mobile application regularly requests firefighter status from the RulesDecision service and shows the result using the LED on the hardware device.
 
 ## Important Links
 | Description | Link |
