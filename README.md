@@ -58,7 +58,7 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 | Pyrrha-Sensor-Simulator | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator) |
 
 ## The Story 
-Watch this video to understand the Pyrrha solution:
+Watch this video to understand the Pyrrha solution based on Prometeo Call for Code winning application:
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
@@ -90,14 +90,14 @@ Watch this video to understand the Pyrrha solution:
 6. The MQTT client sends the data to the WebSocket server.
 7. The RulesDecision service wakes up every minute to calculate the 10 mins, 30 mins, 60 mins, 4 hours, and 8 hours time-weighted averages for each gas.
 8. The dashboard queries the database to show the historical data.
-9. The dashboard connects to the Websocker Server to show live data and alerts the user if the levels go above certain pre-determined thresholds.
+9. The dashboard connects to the WebSocket Server to show live data and alerts the user if the levels go above certain pre-determined thresholds.
 10. The central control can view the dashboard using the web browser.
 11. The mobile application regularly requests firefighter status from the RulesDecision service and shows the result using the LED on the hardware device.
 
 ## Important Links
 | Description | Link |
 | --- | --- |
-| Pyrrha Website| https://developer.ibm.com/ |
+| Pyrrha Website| https://pyrrha-platform.org |
 
 
 ## License
