@@ -56,6 +56,7 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 | Pyrrha-Websocket-Server | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server) |
 | Pyrrha-MQTT-Client | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client) |
 | Pyrrha-Sensor-Simulator | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator) |
+| Pyrrha-Website | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website) |
 
 ## The Story 
 Watch this video to understand the Pyrrha solution based on Prometeo Call for Code winning application:
