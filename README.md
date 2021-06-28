@@ -17,7 +17,7 @@ In the face of natural disasters, such as wildfires, Pyrrha (created by Prometeo
 ## IBM Call for Code Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @@Krook |
+| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @Krook |
 | Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @Upkarlidder |
 | Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
 | Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
