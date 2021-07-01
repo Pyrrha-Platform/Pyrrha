@@ -4,6 +4,20 @@
 
 In the face of disasters, such as wildfires, Pyrrha (created by Prometeo) protects those who protect us - the firefighters. With our solution, we've developed a prototype sensor which sends environmental telemetry (temperature, humidity, and smoke concentration). This data is processed by a machine learning algorithm which is able to predict firefighter health, indicating if they are OK, soon to be in danger, or in danger. The goal is to track real-time status, and eventually use aggregated data to make suggestions that improve health outcomes in the long run.
 
+## Get started
+- [Get started](#get-started)
+- [Original Prometeo Team](#original-prometeo-team)
+- [IBM Call for Code Team](#ibm-call-for-code-team)
+- [Prometeo Platform S.L. Team](#prometeo-platform-sl-team)
+- [IBM Service Corps Team](#ibm-service-corps-team)
+- [Public Tools](#public-tools)
+- [Pyrrha Platform v1 (By-Prometeo)](#pyrrha-platform-v1-by-prometeo)
+- [Pyrrha Projects](#pyrrha-projects)
+- [The Story](#the-story)
+- [Built with:](#built-with)
+- [Solution at a Glance : Architecture](#solution-at-a-glance--architecture)
+- [Important Links](#important-links)
+- [License](#license)
 
 ## Original Prometeo Team
 | Name | Title | Github | Slack |
