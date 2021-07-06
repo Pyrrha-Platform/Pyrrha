@@ -19,38 +19,6 @@ In the face of disasters, such as wildfires, Pyrrha (created by Prometeo) protec
 - [Important Links](#important-links)
 - [License](#license)
 
-## Original Prometeo Team
-| Name | Title | Github | Slack |
-| --- | --- | --- | --- |
-| Josep Ràfols | --- | --- | @joraco |
-| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
-| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
-| Joan Herrera | --- | --- | --- |
-| Vicenç Ferrés | --- | --- | --- |
-
-## IBM Call for Code Team
-| Name | Title | Github | Slack |
-| --- | --- | --- | --- |
-| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @Krook |
-| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @UpkarLidder |
-| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
-| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
-
-## Prometeo Platform S.L. Team
-| Name | Title | Github | Slack |
-| --- | --- | --- | --- |
-| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
-| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salome.valero |
-| Joan Herrera | --- | --- | --- |
-
-## IBM Service Corps Team
-| Name | Title | Github | Slack |
-| --- | --- | --- | --- |
-| ? | ? | ? | ? |
-
-## Public Tools
-
-* Will use [Slack in the Call for Code workspace](https://callforcode.org/slack) for chat in between meetings.
 
 ## Pyrrha Platform v1 (By-Prometeo)
 
@@ -72,10 +40,12 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 | Pyrrha-Sensor-Simulator | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator) |
 | Pyrrha-Website | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website) |
 
+
 ## The Story 
 Watch this video to understand the Pyrrha solution based on Prometeo's Call for Code winning application:
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
+
 
 ## Built with:
 - [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
@@ -86,6 +56,7 @@ Watch this video to understand the Pyrrha solution based on Prometeo's Call for 
 - [Pandas](https://pandas.pydata.org/)
 - [IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
 - [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
+
 
 ## Solution at a Glance : Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/3187457/122242264-08903d00-ce78-11eb-944f-804ba4dc683d.png)
@@ -101,10 +72,49 @@ Watch this video to understand the Pyrrha solution based on Prometeo's Call for 
 10. The central control can view the dashboard using the web browser on a laptop or tablet.
 11. The mobile application regularly requests firefighter status from the Rules Decision service and shows the result using the LED on the hardware device.
 
+
 ## Important Links
 | Description | Link |
 | --- | --- |
 | Pyrrha Website| https://pyrrha-platform.org |
+
+
+## Original Prometeo Team
+| Name | Title | Github | Slack |
+| --- | --- | --- | --- |
+| Josep Ràfols | --- | --- | @joraco |
+| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
+| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
+| Joan Herrera | --- | --- | --- |
+| Vicenç Ferrés | --- | --- | --- |
+
+
+## IBM Call for Code Team
+| Name | Title | Github | Slack |
+| --- | --- | --- | --- |
+| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @Krook |
+| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @UpkarLidder |
+| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
+| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
+
+
+## Prometeo Platform S.L. Team
+| Name | Title | Github | Slack |
+| --- | --- | --- | --- |
+| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
+| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salome.valero |
+| Joan Herrera | --- | --- | --- |
+
+
+## IBM Service Corps Team
+| Name | Title | Github | Slack |
+| --- | --- | --- | --- |
+| ? | ? | ? | ? |
+
+
+## Public Tools
+
+* Will use [Slack in the Call for Code workspace](https://callforcode.org/slack) for chat in between meetings.
 
 
 ## License
