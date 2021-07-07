@@ -12,14 +12,14 @@ There are multiple ways to contribute to the Pyrrha project, such as:
 
 
 ## How To's:
-- **Pull Requests:** When creating a pull request, please follow these steps. 
+- **Pull Requests:** 
    - Describe at a high level the solution you're providing. 
    - Is this a patch, a minor version change, or a major version change. 
    - Is this related to an open issue? Please provide the link.
    - Additional context and any other technical detail or considerations here.
    
    
-- **Reporting Issues/Bugs:** When reporting bugs, please follow these steps. 
+- **Reporting Issues/Bugs:** 
    - Description: A clear and concise description of what the bug is.
 
    - Steps to reproduce the behavior:
