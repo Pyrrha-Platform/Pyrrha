@@ -1,8 +1,10 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
 
-# ![Pyrrha](/img/prometeo.png?raw=true)
+Created by the [Prometeo Solutions S.L.](https://prometeoplatform.com/) team as a [Call for Code winning project](https://developer.ibm.com/callforcode/solutions/prometeo/), the *Pyrrha open source project* is built to protect the firefighters who protect us from the threat of wildfires and bushfires. 
 
-In the face of disasters, such as wildfires, Pyrrha (created by Prometeo) protects those who protect us - the firefighters. With our solution, we've developed a prototype sensor which sends environmental telemetry (temperature, humidity, and smoke concentration). This data is processed by a machine learning algorithm which is able to predict firefighter health, indicating if they are OK, soon to be in danger, or in danger. The goal is to track real-time status, and eventually use aggregated data to make suggestions that improve health outcomes in the long run.
+We've developed a prototype sensor which collects environmental telemetry (carbon monoxide, nitrogen dioxide, temperature, and humidity readings). This data is then processed by a machine learning algorithm which is able to assess firefighter status, indicating if they are OK now or at risk from prolonged exposure.
+
+Pyrrha tracks real-time status and use captures long-term averages to make suggestions that can improve health outcomes in the long run.
 
 ## Get started
 - [Get started](#get-started)
@@ -11,7 +13,7 @@ In the face of disasters, such as wildfires, Pyrrha (created by Prometeo) protec
 - [Prometeo Platform S.L. Team](#prometeo-platform-sl-team)
 - [IBM Service Corps Team](#ibm-service-corps-team)
 - [Public Tools](#public-tools)
-- [Pyrrha Platform v1 (By-Prometeo)](#pyrrha-platform-v1-by-prometeo)
+- [Pyrrha v1 (Prometeo v4)](#pyrrha-platform-v1-prometeo-v4)
 - [Pyrrha Projects](#pyrrha-projects)
 - [The Story](#the-story)
 - [Built with:](#built-with)
@@ -20,13 +22,13 @@ In the face of disasters, such as wildfires, Pyrrha (created by Prometeo) protec
 - [License](#license)
 
 
-## Pyrrha Platform v1 (By-Prometeo)
+## Pyrrha v1 (Prometeo v4)
 
-The first version of the Pyrrha project is nearing completion, and will soon be a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo trademark, Pyrrha, who is the daughter-in-law of Prometheus in Greek mythology.
+The first version of the Pyrrha project is nearing completion, and will soon be released as a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo Solutions trademark - Pyrrha - the [flame-colored haired daughter-in-law of Prometheus in Greek mythology](https://www.greekmythology.com/Myths/Mortals/Pyrrha/pyrrha.html).
 
 
 ## Pyrrha Projects
-| Name | Git Repo |
+| Name | Repository |
 | --- | --- |
 | Pyrrha | [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha) |
 | Pyrrha-Firmware| [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware) |
@@ -42,7 +44,7 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 
 
 ## The Story 
-Watch this video to understand the Pyrrha solution based on Prometeo's Call for Code winning application:
+Watch this video to understand the Pyrrha solution based on Prometeo's original Call for Code 2019 winning application:
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
@@ -60,17 +62,17 @@ Watch this video to understand the Pyrrha solution based on Prometeo's Call for 
 
 ## Solution at a Glance : Architecture
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/3187457/122242264-08903d00-ce78-11eb-944f-804ba4dc683d.png)
-1. The firefighter logs into the mobile phone. The credentials are authenticated with IBM App ID. The next steps assume that authentication was successful. Then the firefighter scans for sensor devices with the mobile app and connect to the device thought Bluetooth Low Energy.
-2. The device sensor captures gas levels. The device sends to the mobile application sensor values at regular intervals (about once a minute).
+1. The firefighter logs into the mobile phone. The credentials are authenticated with IBM App ID. They scan for sensor devices with the mobile app and connect to the device thought Bluetooth Low Energy.
+2. The device sensor captures toxin and environmental readings. The device sends to the mobile application sensor values at regular intervals (about once a minute).
 3. The mobile application sends data to the IBM IoT platform.
 4. The MQTT client service listens for incoming messages on the IBM IoT platform.
-5. The MQTT client stores the data in the MariaDB relational database.
+5. The MQTT client stores the data in the MariaDB database.
 6. The MQTT client sends the data to the WebSocket server.
-7. The Rules Decision service wakes up every minute to calculate the 10 mins, 30 mins, 60 mins, 4 hours, and 8 hours time-weighted averages for each gas.
+7. The Rules Decision service wakes up every minute to calculate the 10 min, 30 min, 60 min, 4 hour, and 8 hour time-weighted averages for each gas.
 8. The dashboard queries the database to show the historical data.
 9. The dashboard connects to the WebSocket server to show live data and alerts the user if the levels go above certain pre-determined thresholds.
-10. The central control can view the dashboard using the web browser on a laptop or tablet.
-11. The mobile application regularly requests firefighter status from the Rules Decision service and shows the result using the LED on the hardware device.
+10. The command center can view the dashboard using the web browser on a laptop or tablet in the field or at headquarters.
+11. The mobile application regularly polls firefighter status from the Rules Decision service and shows the result using the LED on the hardware device.
 
 
 ## Important Links
@@ -80,41 +82,51 @@ Watch this video to understand the Pyrrha solution based on Prometeo's Call for 
 
 
 ## Original Prometeo Team
-| Name | Title | Github | Slack |
+| Name | Title | GitHub | Slack |
 | --- | --- | --- | --- |
 | Josep Ràfols | --- | --- | @joraco |
-| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
-| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salaome.valero |
+| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @marco.rodriguez.serra |
+| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @salome.valero |
 | Joan Herrera | --- | --- | --- |
 | Vicenç Ferrés | --- | --- | --- |
 
 
 ## IBM Call for Code Team
-| Name | Title | Github | Slack |
+| Name | Title | GitHub | Slack |
 | --- | --- | --- | --- |
-| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @Krook |
-| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @UpkarLidder |
-| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @Tae.black|
-| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @Alejandro.Quijada |
+| Daniel Krook | CTO | [Daniel](https://github.com/krook) | @krook |
+| Upkar Lidder | Technical Lead | [Upkar](https://github.com/upkarlidder) | @upkarlidder |
+| Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @tae.black|
+| Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @alejandro.quijada |
 
 
 ## Prometeo Platform S.L. Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
-| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @Marco.rodriguez.serra |
-| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @Salome.valero |
+| Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @marco.rodriguez.serra |
+| Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @salome.valero |
 | Joan Herrera | --- | --- | --- |
 
 
 ## IBM Service Corps Team
-| Name | Title | Github | Slack |
-| --- | --- | --- | --- |
-| ? | ? | ? | ? |
+| Name |
+| --- |
+| Brandi Boatner |
+| Dina Tawil |
+| George Zacharakis-Jutz |
+| John Segrave-Daly |
+| Laura J Mokrzycki |
+| Laura Visochek |
+| Marisol Elizabeth Santillan |
+| Nithya Renganathan |
+| Samantha Davis |
+| Upkar Lidder |
+| Vince Siu |
 
 
 ## Public Tools
 
-* Will use [Slack in the Call for Code workspace](https://callforcode.org/slack) for chat in between meetings.
+* We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #prometeo-pyrrha channel for discussion.
 
 
 ## License
