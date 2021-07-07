@@ -8,17 +8,18 @@ Pyrrha tracks real-time status and use captures long-term averages to make sugge
 
 ## Get started
 - [Get started](#get-started)
+- [Pyrrha v1 (Prometeo v4)](#pyrrha-v1-prometeo-v4)
+- [Pyrrha Projects](#pyrrha-projects)
+- [The Story](#the-story)
+- [Built with:](#built-with)
+- [Get Involved](#get-involved)
+- [Solution at a Glance : Architecture](#solution-at-a-glance--architecture)
+- [Important Links](#important-links)
 - [Original Prometeo Team](#original-prometeo-team)
 - [IBM Call for Code Team](#ibm-call-for-code-team)
 - [Prometeo Platform S.L. Team](#prometeo-platform-sl-team)
 - [IBM Service Corps Team](#ibm-service-corps-team)
 - [Public Tools](#public-tools)
-- [Pyrrha v1 (Prometeo v4)](#pyrrha-platform-v1-prometeo-v4)
-- [Pyrrha Projects](#pyrrha-projects)
-- [The Story](#the-story)
-- [Built with:](#built-with)
-- [Solution at a Glance : Architecture](#solution-at-a-glance--architecture)
-- [Important Links](#important-links)
 - [License](#license)
 
 
@@ -48,6 +49,9 @@ Watch this video to understand the Pyrrha solution based on Prometeo's original 
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
+
+## Get Involved
+Please read [GetInvolved](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/GetInvolved.md) to understand how you can contribute to the Pyrrha Project.
 
 ## Built with:
 - [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
