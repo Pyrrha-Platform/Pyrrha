@@ -51,7 +51,7 @@ Watch this video to understand the Pyrrha solution based on Prometeo's original 
 
 
 ## Get Involved
-Please read [GetInvolved](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/GetInvolved.md) to understand how you can contribute to the Pyrrha Project.
+Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contribute to the Pyrrha Project.
 
 ## Built with:
 - [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
