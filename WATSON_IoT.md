@@ -4,9 +4,9 @@ In order for the Pyrrha Device to communicate with the internet, you need to cre
 
 Follow these steps to connect a device to IBM Watson IoT Platform
 
-1. Create an IBM Cloud account through this link. Fill out all the required information and confirm your email address.
+1. Create an IBM Cloud account through [this link](https://cloud.ibm.com/registration?cm_sp=Developer-_-cfc2021projects-_-ov78713&eventid=cfc2021projects&lang=en_US&target=https%3A%2F%2Fdeveloper.ibm.com%2Fdwwi%2Fjsp%2Fp%2Fpostregister.jsp%3Feventid%3Dcfc2021projects%26lang%3Den_US). Fill out all the required information and confirm your email address.
 
-2. Follow this link to provision an instance of the IBM Watson IoT Platform. Note: you can also find this by browsing through the catalog.
+2. Follow this link to provision an instance of the [IBM Watson IoT Platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform). Note: you can also find this by [browsing through the catalog](https://cloud.ibm.com/catalog#services).
 
 3. Make sure the Lite plan is selected and click `Create`. You can change the `Service Name` if you want to, but it's not required.
 
