@@ -18,6 +18,7 @@ Follow these steps to connect a device to IBM Watson IoT Platform
 <img width="1920" alt="step5" src="https://user-images.githubusercontent.com/84807697/125334343-45394200-e319-11eb-9c5e-b916cad4a017.png">
 
 6. Enter your `Device Type` and `Device ID`, then click `Next`.
+<img width="1920" alt="step6" src="https://user-images.githubusercontent.com/84807697/125337488-0f965800-e31d-11eb-8ec9-b44fb48716e0.png">
 
 7. Filling out anything in the `Device Information` tab is optional, click `Next`.
 <img width="1920" alt="step7" src="https://user-images.githubusercontent.com/84807697/125334411-597d3f00-e319-11eb-960d-78a5fe0131a6.png">
@@ -25,7 +26,9 @@ Follow these steps to connect a device to IBM Watson IoT Platform
 8. Leave the field for `Authentication Token` blank, as one will be generated automatically. You can specify your own if you prefer. Click `Next`.
 <img width="1920" alt="step8" src="https://user-images.githubusercontent.com/84807697/125334642-9c3f1700-e319-11eb-9f8f-73086e338a8f.png">
 
-9. Ensure that the `Summary` page looks good, then click Finish.
+9. Ensure that the `Summary` page looks good, then click `Finish`.
+<img width="1920" alt="step9" src="https://user-images.githubusercontent.com/84807697/125337417-f9889780-e31c-11eb-8376-e98671f693e2.png">
 
 10. You'll see the authentication token listed, ensure that you do not misplace it, otherwise, you will have to regenerate a new token.
+<img width="1920" alt="step10" src="https://user-images.githubusercontent.com/84807697/125337458-060cf000-e31d-11eb-8bce-0f306e0edbea.png">
 
