@@ -1,6 +1,6 @@
 # Deployment to Kubernetes
 
-You can run the OpenEEW detection engine as a standalone Docker container on your laptop, a Raspberry Pi device, or another computer. But you can also deploy it to a Kubernetes cluster such as the [IBM Container Service](https://www.ibm.com/cloud/container-service/) or [Red Hat OpenShift](https://www.ibm.com/cloud/openshift).
+You can run Pyrrha as a standalone Docker container on your laptop, a Raspberry Pi device, or another computer. But you can also deploy it to a Kubernetes cluster such as the [IBM Container Service](https://www.ibm.com/cloud/container-service/) or [Red Hat OpenShift](https://www.ibm.com/cloud/openshift).
 
 ## Set up a Kubernetes cluster on the IBM Cloud
 
@@ -10,7 +10,7 @@ Note: You can also choose a more scalable Kubernetes or OpenShift cluster, but t
 
 - In the [IBM Cloud Catalog](https://cloud.ibm.com/catalog?category=containers), select **Kubernetes Service**. A cluster configuration page opens.
 - From the plan dropdown, select the **Free** cluster option.
-- Give your cluster a unique name, such as `openeew-free`.
+- Give your cluster a unique name, such as `Pyrrha-free`.
 - Select a resource group to create the cluster in, such as `default`.
 - In the **Summary** pane, review the order summary and then click **Create**. A worker pool is created that contains one worker node in the default resource group.
 
@@ -44,14 +44,4 @@ While your cluster is provisioning, set up your local workstation with the clien
 
 ## Run a deployment containing the Docker container
 
-You can now deploy the `openeew/postgres` and `openeew/mqtt` apps to your cluster.
-
-- Select your cluster from the [cluster list](https://cloud.ibm.com/kubernetes/clusters) to open the details for your cluster.
-- Click **Kubernetes dashboard**.
-- From the menu bar, click the **Create new resource** icon (+).
-  - Update the **container image** in [openeew YAML](openeew.yaml)
-  - If using a private image registry, update the **imagePullSecrets**
-  - Copy the [openeew YAML](openeew.yaml)
-  - In the **Create from input** box, paste the `openeew.yml` that you copied in the previous step.
-  - Click **Upload**. The node port service and deployment is created.
-- From the menu, click **Service > Services**. If using the defaults in the sample, the MQTT service will be named **openeew-mqtt-lb** and the Postgres service will be named **openeew-psql-lb**. Under the **External Endpoints** column, take note of the IP and and Port values in the form IP:Port. For example, `169.xx.xx.xxx:yy ` indicates your IP is `169.xx.xx.xxx` and your port is `yy`.
+- TBD upon completion of deployment configurations 
