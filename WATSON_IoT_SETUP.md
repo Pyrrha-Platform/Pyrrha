@@ -3,12 +3,14 @@
 In order for the Pyrrha Device to communicate with the internet, you need to create a device in the IBM Watson IoT Platform. Creating a device allows you to connect your an IoT device (in this case, Pyrrha) to IBM Watson. You are telling IBM Watson to let the device connect to the internet and receive its data.
 
 ## Get started
-- [Create IBM IoT service](#create-ibm-iot-service)
-- [Connect a Pyrrha device](#connect-a-pyrrha-device-to-ibm-watson-iot-platform)
-- [Connect an application](#connect-an-application-to-ibm-watson-iot-platform)
+- [Create IBM IoT service](#-create-ibm-iot-service-)
+- [Connect a Pyrrha device](#-connect-a-pyrrha-device-to-ibm-watson-iot-platform-)
+- [Connect an application](#-connect-an-application-to-ibm-watson-iot-platform-)
 
+## 
+##
 
-## Create IBM IoT Service
+## -Create IBM IoT Service-
 Follow these steps to create an IBM IoT service
 
 1. Create an IBM Cloud account through [this link](https://cloud.ibm.com/registration?cm_sp=Developer-_-cfc2021projects-_-ov78713&eventid=cfc2021projects&lang=en_US&target=https%3A%2F%2Fdeveloper.ibm.com%2Fdwwi%2Fjsp%2Fp%2Fpostregister.jsp%3Feventid%3Dcfc2021projects%26lang%3Den_US). Fill out all the required information and confirm your email address.
@@ -21,8 +23,10 @@ Follow these steps to create an IBM IoT service
 4. After the service provisions, click `Launch`.
 <img width="1920" alt="step4" src="https://user-images.githubusercontent.com/84807697/125334223-1e7b0b80-e319-11eb-9181-20ad5e935690.png">
 
+##
+##
 
-## Connect a Pyrrha device to IBM Watson IoT Platform
+## -Connect a Pyrrha device to IBM Watson IoT Platform-
 Follow these steps to connect a device to IBM Watson IoT Platform
 
 1. Click on `Devices` located on the left toolbar, and then select `Add Device`.
@@ -43,8 +47,10 @@ Follow these steps to connect a device to IBM Watson IoT Platform
 6. You'll see the authentication token listed, ensure that you do not misplace it, otherwise, you will have to regenerate a new token.
 <img width="1920" alt="step10" src="https://user-images.githubusercontent.com/84807697/125337458-060cf000-e31d-11eb-8bce-0f306e0edbea.png">
 
+## 
+## 
 
-## Connect an application to IBM Watson IoT Platform
+## -Connect an application to IBM Watson IoT Platform-
 Follow these steps to connect an application to IBM Watson IoT Platform. 
 
 1. Click on `Apps` located on the left toolbar, and then select `Generate API Key`.
