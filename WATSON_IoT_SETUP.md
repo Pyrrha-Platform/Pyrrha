@@ -68,4 +68,3 @@ Follow these steps to connect an application to IBM Watson IoT Platform.
 5. In the `.env` file , fill in the information of the `IOT_USERNAME` & `IOT_PASSWORD` from step 8^.
 <img width="1920" alt="step9b" src="https://user-images.githubusercontent.com/84807697/125515127-520c9d85-ef19-41f1-b790-be169ec39319.png">
 
-6. In the terminal, under the application directory (for example : `/user/Pyrrha-MQTT-Client/`) run `npm start`.
