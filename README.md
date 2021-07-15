@@ -7,13 +7,13 @@ We've developed a prototype sensor which collects environmental telemetry (carbo
 Pyrrha tracks real-time status and use captures long-term averages to make suggestions that can improve health outcomes in the long run.
 
 ## Get started
-- [Get started](#get-started)
+- [Get Started](#get-started)
 - [Pyrrha v1 (Prometeo v4)](#pyrrha-v1-prometeo-v4)
 - [Pyrrha Projects](#pyrrha-projects)
 - [The Story](#the-story)
-- [Built with:](#built-with)
+- [Built With](#built-with)
 - [Get Involved](#get-involved)
-- [Solution at a Glance : Architecture](#solution-at-a-glance--architecture)
+- [Solution at a Glance](#solution-at-a-glance)
 - [Important Links](#important-links)
 - [Original Prometeo Team](#original-prometeo-team)
 - [IBM Call for Code Team](#ibm-call-for-code-team)
@@ -22,11 +22,9 @@ Pyrrha tracks real-time status and use captures long-term averages to make sugge
 - [Public Tools](#public-tools)
 - [License](#license)
 
-
 ## Pyrrha v1 (Prometeo v4)
 
 The first version of the Pyrrha project is nearing completion, and will soon be released as a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo Solutions trademark - Pyrrha - the [flame-colored haired daughter-in-law of Prometheus in Greek mythology](https://www.greekmythology.com/Myths/Mortals/Pyrrha/pyrrha.html).
-
 
 ## Pyrrha Projects
 | Name | Repository |
@@ -43,17 +41,15 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 | Pyrrha-Sensor-Simulator | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator) |
 | Pyrrha-Website | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website) |
 
-
 ## The Story 
 Watch this video to understand the Pyrrha solution based on Prometeo's original Call for Code 2019 winning application:
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
-
 ## Get Involved
 Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contribute to the Pyrrha Project.
 
-## Built with:
+## Built With
 - [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
 - [MariaDB](https://mariadb.org/)
 - [Express.js](https://expressjs.com/)
@@ -63,8 +59,7 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 - [IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
 - [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 
-
-## Solution at a Glance : Architecture
+## Solution at a Glance
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/3187457/122242264-08903d00-ce78-11eb-944f-804ba4dc683d.png)
 1. The firefighter logs into the mobile phone. The credentials are authenticated with IBM App ID. They scan for sensor devices with the mobile app and connect to the device thought Bluetooth Low Energy.
 2. The device sensor captures toxin and environmental readings. The device sends to the mobile application sensor values at regular intervals (about once a minute).
@@ -78,12 +73,10 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 10. The command center can view the dashboard using the web browser on a laptop or tablet in the field or at headquarters.
 11. The mobile application regularly polls firefighter status from the Rules Decision service and shows the result using the LED on the hardware device.
 
-
 ## Important Links
 | Description | Link |
 | --- | --- |
 | Pyrrha Website| https://pyrrha-platform.org |
-
 
 ## Original Prometeo Team
 | Name | Title | GitHub | Slack |
@@ -94,7 +87,6 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Joan Herrera | --- | --- | --- |
 | Vicenç Ferrés | --- | --- | --- |
 
-
 ## IBM Call for Code Team
 | Name | Title | GitHub | Slack |
 | --- | --- | --- | --- |
@@ -103,14 +95,12 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Taeson Black | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack) | @tae.black|
 | Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @alejandro.quijada |
 
-
 ## Prometeo Platform S.L. Team
 | Name | Title | Github | Slack |
 | --- | --- | --- | --- |
 | Marco Emilio Rodriguez Serrano | --- | [Marco](https://github.com/mrodrise) | @marco.rodriguez.serra |
 | Salome Valero Cumplido | --- | [Salome](https://github.com/svaleroc) | @salome.valero |
 | Joan Herrera | --- | --- | --- |
-
 
 ## IBM Service Corps Team
 | Name |
@@ -127,11 +117,9 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Upkar Lidder |
 | Vince Siu |
 
-
 ## Public Tools
 
 * We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #prometeo-pyrrha channel for discussion.
-
 
 ## License
 This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/LICENSE) file for details.
