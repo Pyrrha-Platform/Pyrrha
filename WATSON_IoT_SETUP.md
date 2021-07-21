@@ -20,10 +20,10 @@ Follow these steps to create an IBM IoT service
 2. Follow this link to provision an instance of the [IBM Watson IoT Platform](https://cloud.ibm.com/catalog/services/internet-of-things-platform). Note: you can also find this by [browsing through the catalog](https://cloud.ibm.com/catalog#services).
 
 3. Make sure the Lite plan is selected and click `Create`. You can change the `Service Name` if you want to, but it's not required.
-   <img width="1920" alt="step3" src="https://user-images.githubusercontent.com/84807697/125334090-f9869880-e318-11eb-8d94-db51fcf44dd8.png">
+   <img width="1920" alt="step3" src="img/step3.png">
 
 4. After the service provisions, click `Launch`.
-   <img width="1920" alt="step4" src="https://user-images.githubusercontent.com/84807697/125334223-1e7b0b80-e319-11eb-9181-20ad5e935690.png">
+   <img width="1920" alt="step4" src="img/step4.png">
 
 ---
 ## Connect a Pyrrha device to IBM Watson IoT Platform
@@ -31,22 +31,22 @@ Follow these steps to create an IBM IoT service
 Follow these steps to connect a device to IBM Watson IoT Platform
 
 1. Click on `Devices` located on the left toolbar, and then select `Add Device`.
-   <img width="1920" alt="step5" src="https://user-images.githubusercontent.com/84807697/125334343-45394200-e319-11eb-9c5e-b916cad4a017.png">
+   <img width="1920" alt="step5" src="img/step5.png">
 
 2. Enter your `Device Type` and `Device ID`, then click `Next`.
-   <img width="1920" alt="step6" src="https://user-images.githubusercontent.com/84807697/125337488-0f965800-e31d-11eb-8ec9-b44fb48716e0.png">
+   <img width="1920" alt="step6" src="img/step6.png">
 
 3. Filling out anything in the `Device Information` tab is optional, click `Next`.
-   <img width="1920" alt="step7" src="https://user-images.githubusercontent.com/84807697/125334411-597d3f00-e319-11eb-960d-78a5fe0131a6.png">
+   <img width="1920" alt="step7" src="img/step7.png">
 
 4. Leave the field for `Authentication Token` blank, as one will be generated automatically. You can specify your own if you prefer. Click `Next`.
-   <img width="1920" alt="step8" src="https://user-images.githubusercontent.com/84807697/125334642-9c3f1700-e319-11eb-9f8f-73086e338a8f.png">
+   <img width="1920" alt="step8" src="img/step8.png">
 
 5. Ensure that the `Summary` page looks good, then click `Finish`.
-   <img width="1920" alt="step9" src="https://user-images.githubusercontent.com/84807697/125337417-f9889780-e31c-11eb-8376-e98671f693e2.png">
+   <img width="1920" alt="step9" src="img/step9.png">
 
 6. You'll see the authentication token listed, ensure that you do not misplace it, otherwise, you will have to regenerate a new token.
-   <img width="1920" alt="step10" src="https://user-images.githubusercontent.com/84807697/125337458-060cf000-e31d-11eb-8bce-0f306e0edbea.png">
+   <img width="1920" alt="step10" src="img/step10.png">
 
 ---
 ## Connect an application to IBM Watson IoT Platform
@@ -54,19 +54,19 @@ Follow these steps to connect a device to IBM Watson IoT Platform
 Follow these steps to connect an application to IBM Watson IoT Platform.
 
 1. Click on `Apps` located on the left toolbar, and then select `Generate API Key`.
-   <img width="1920" alt="step5b" src="https://user-images.githubusercontent.com/84807697/125509112-5267993b-9230-4287-8b64-4af0ef7d5bcb.png">
+   <img width="1920" alt="step5b" src="img/step5b.png">
 
 2. Write a description and once you are done click `Next`, Keep `API Key Expires` off.
-   <img width="1920" alt="step6b" src="https://user-images.githubusercontent.com/84807697/125509147-218179ab-4fbb-4d47-9155-1e60ebd8218f.png">
+   <img width="1920" alt="step6b" src="img/step6b.png">
 
 3. The role should be `Visualization Application`, if not click on the toolbar and select it. Then click `Generate Key`.
-   <img width="1920" alt="step7b" src="https://user-images.githubusercontent.com/84807697/125509187-847f0b03-18aa-4a8a-bf46-1802d960aac6.png">
+   <img width="1920" alt="step7b" src="img/step7b.png">
 
 4. The `API Key` is your `IOT_USERNAME` and the `Authentication Token` is your `IOT_PASSWORD`.
-   <img width="1920" alt="step8b" src="https://user-images.githubusercontent.com/84807697/125515096-648cb1f7-e09d-414d-aa1e-8a3b990a8b74.png">
+   <img width="1920" alt="step8b" src="img/step8b.png">
 
 5. In the `.env` file , fill in the information of the `IOT_USERNAME` & `IOT_PASSWORD` from step 8^.
-   <img width="1920" alt="step9b" src="https://user-images.githubusercontent.com/84807697/125515127-520c9d85-ef19-41f1-b790-be169ec39319.png">
+   <img width="1920" alt="step9b" src="img/step9b.png">
 
 ---
 ## Obtain organization ID from the IoT platform
