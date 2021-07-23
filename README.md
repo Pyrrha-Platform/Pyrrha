@@ -1,10 +1,12 @@
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
+# Pyrrha
 
 Created by the [Prometeo Solutions S.L.](https://prometeoplatform.com/) team as a [Call for Code winning project](https://developer.ibm.com/callforcode/solutions/prometeo/), the *Pyrrha open source project* is built to protect the firefighters who protect us from the threat of wildfires and bushfires. 
 
 We've developed a prototype sensor which collects environmental telemetry (carbon monoxide, nitrogen dioxide, temperature, and humidity readings). This data is then processed by a machine learning algorithm which is able to assess firefighter status, indicating if they are OK now or at risk from prolonged exposure.
 
 Pyrrha tracks real-time status and use captures long-term averages to make suggestions that can improve health outcomes in the long run.
+
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23prometeo-pyrrha&color=blue)](https://callforcode.org/slack)
 
 ## Get started
 - [Get Started](#get-started)
