@@ -36,15 +36,15 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 | Pyrrha                           | [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha)               |
 | Pyrrha-Dashboard                 | [Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)                |
 | Pyrrha-Database                  | [Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)                  |
-| Pyrrha-Deployment-Configurations | [Database](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations) |
+| Pyrrha-Deployment-Configurations | [Deployment-Configurations](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations) |
 | Pyrrha-Firmware                  | [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                  |
-| Pyrrha-Hardware                  | [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                  |
+| Pyrrha-Hardware                  | [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                  |
 | Pyrrha-Mobile-App                | [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)              |
 | Pyrrha-MQTT-Client               | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)            |
 | Pyrrha-Rules-Decision            | [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)      |
 | Pyrrha-Sensor-Simulator          | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)  |
 | Pyrrha-Watch-App                 | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                |
-| Pyrrha-Website                   | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Website)                  |
+| Pyrrha-Website                   | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                  |
 | Pyrrha-Websocket-Server          | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)  |
 
 ## The Story
