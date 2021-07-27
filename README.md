@@ -20,6 +20,7 @@ Improved by field tests in the Catalonia region of Spain and through the support
 - [IBM Call for Code team](#ibm-call-for-code-team)
 - [Prometeo Platform S.L. Team](#prometeo-platform-sl-team)
 - [IBM Service Corps Team](#ibm-service-corps-team)
+- [Technical Steering Committee](#technical-steering-committee)
 - [Public tools](#public-tools)
 - [License](#license)
 
@@ -126,6 +127,18 @@ We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #pr
 | Samantha Davis              |
 | Upkar Lidder                |
 | Vince Siu                   |
+
+## Technical Steering Committee
+
+Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
+
+| Name                           | Organization           |
+| ------------------------------ | ---------------------- |
+| Salome Valero Cumplido         | Prometeo Platform S.L. |
+| Marco Emilio Rodriguez Serrano | Prometeo Platform S.L. |
+| Joan Herrera                   | Prometeo Platform S.L. |
+| Daniel Krook                   | IBM                    |
+| Upkar Lidder                   | IBM                    |
 
 ## License
 
