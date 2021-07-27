@@ -2,34 +2,34 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23prometeo-pyrrha&color=blue)](https://callforcode.org/slack)
 
-Created by the [Prometeo Solutions S.L.](https://prometeoplatform.com/) team as a [Call for Code winning project](https://developer.ibm.com/callforcode/solutions/prometeo/), the _Pyrrha open source project_ is built to protect the firefighters who protect us from the threat of wildfires and bushfires.
+[Prometeo Solutions S.L.](https://prometeoplatform.com/) created ***Prometeo*** as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/prometeo/) that won the top prize in the Global Challenge. In 2021, ***Pyrrha*** was contributed to the Linux Foundation as the open source core of Prometeo in order share the technology and provide a way for others to improve it for the benefit of all.
 
-We've developed a prototype sensor which collects environmental telemetry (carbon monoxide, nitrogen dioxide, temperature, and humidity readings). This data is then processed by a machine learning algorithm which is able to assess firefighter status, indicating if they are OK now or at risk from prolonged exposure.
+[The Pyrrha mission](Pyrrha-Technical-Charter-July-2021.pdf) is to help protect firefighters from the immediate and long-term health impacts from the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information. 
 
-Pyrrha tracks real-time status and use captures long-term averages to make suggestions that can improve health outcomes in the long run.
+Improved by field tests in the Catalonia region of Spain and through the support of IBM Service Corps volunteers, our hope is that Pyrrha can also provide a powerful solution to assist wildlands firefighting teams around the world in their battle against more frequent and more devestating wildfires and bushfires.
 
 ## Get started
 
-- [Get Started](#get-started)
+- [Get started](#get-started)
 - [Pyrrha v1 (Prometeo v4)](#pyrrha-v1-prometeo-v4)
-- [Pyrrha Projects](#pyrrha-projects)
-- [The Story](#the-story)
-- [Built With](#built-with)
-- [Get Involved](#get-involved)
-- [Solution at a Glance](#solution-at-a-glance)
-- [Important Links](#important-links)
-- [Original Prometeo Team](#original-prometeo-team)
-- [IBM Call for Code Team](#ibm-call-for-code-team)
+- [Pyrrha projects](#pyrrha-projects)
+- [The story](#the-story)
+- [Built with](#built-with)
+- [Get involved](#get-involved)
+- [Solution at a glance](#solution-at-a-glance)
+- [Important links](#important-links)
+- [Original Prometeo team](#original-prometeo-team)
+- [IBM Call for Code team](#ibm-call-for-code-team)
 - [Prometeo Platform S.L. Team](#prometeo-platform-sl-team)
 - [IBM Service Corps Team](#ibm-service-corps-team)
-- [Public Tools](#public-tools)
+- [Public tools](#public-tools)
 - [License](#license)
 
 ## Pyrrha v1 (Prometeo v4)
 
-The first version of the Pyrrha project is nearing completion, and will soon be released as a Call for Code® with The Linux Foundation project. The project will carry on as a separate name distinct from the Prometeo Solutions trademark - Pyrrha - the [flame-colored haired daughter-in-law of Prometheus in Greek mythology](https://www.greekmythology.com/Myths/Mortals/Pyrrha/pyrrha.html).
+The first version of the Pyrrha project has been released as a [Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/) project. Pyrrha will carry on as a separate name distinct from the Prometeo Solutions trademark, the [flame-colored haired daughter-in-law of Prometheus in Greek mythology](https://www.greekmythology.com/Myths/Mortals/Pyrrha/pyrrha.html).
 
-## Pyrrha Projects
+## Pyrrha projects
 
 | Name                             | Repository                                                                      |
 | -------------------------------- | ------------------------------------------------------------------------------- |
@@ -47,17 +47,17 @@ The first version of the Pyrrha project is nearing completion, and will soon be 
 | Pyrrha-Website                   | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                  |
 | Pyrrha-Websocket-Server          | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)  |
 
-## The Story
+## The story
 
 Watch this video to learn about the Pyrrha solution based on Prometeo's original Call for Code 2019 winning application:
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
 
-## Get Involved
+## Get involved
 
 Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contribute to the Pyrrha Project.
 
-## Built With
+## Built with
 
 - [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
 - [MariaDB](https://mariadb.org/)
@@ -68,7 +68,7 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 - [IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
 - [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 
-## Solution at a Glance
+## Solution at a glance
 
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/3187457/122242264-08903d00-ce78-11eb-944f-804ba4dc683d.png)
 
@@ -84,13 +84,13 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 10. The command center can view the dashboard using the web browser on a laptop or tablet.
 11. The mobile application regularly requests status from the Rules-Decision service and emits the result via device LED and Samsung phone/watch vibrations.
 
-## Important Links
+## Important links
 
 | Description    | Link                        |
 | -------------- | --------------------------- |
 | Pyrrha Website | https://pyrrha-platform.org |
 
-## Original Prometeo Team
+## Original Prometeo team
 
 | Name                           | GitHub                                | Slack                  |
 | ------------------------------ | ------------------------------------- | ---------------------- |
@@ -100,7 +100,7 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Joan Herrera                   | ---                                   | ---                    |
 | Vicenç Ferrés                  | ---                                   | ---                    |
 
-## Prometeo Platform S.L. Team
+## Prometeo Platform S.L. team
 
 | Name                           | Title | Github                                | Slack                  |
 | ------------------------------ | ----- | ------------------------------------- | ---------------------- |
@@ -108,7 +108,7 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Marco Emilio Rodriguez Serrano | CTO   | [Marco](https://github.com/mrodrise)  | @marco.rodriguez.serra |
 | Joan Herrera                   | COO   | ---                                   | ---   
 
-## IBM Call for Code Team
+## IBM Call for Code team
 
 | Name              | Title                            | GitHub                                     | Slack              |
 | ----------------- | -------------------------------- | ------------------------------------------ | ------------------ |
@@ -119,7 +119,7 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 
                  |
 
-## IBM Service Corps Team
+## IBM Service Corps team
 
 | Name                        |
 | --------------------------- |
@@ -135,9 +135,9 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Upkar Lidder                |
 | Vince Siu                   |
 
-## Public Tools
+## Public tools
 
-- We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #prometeo-pyrrha channel for discussion.
+We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #prometeo-pyrrha channel for discussion.
 
 ## License
 
