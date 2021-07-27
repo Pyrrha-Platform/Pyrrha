@@ -2,9 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23prometeo-pyrrha&color=blue)](https://callforcode.org/slack)
 
-[Prometeo Solutions S.L.](https://prometeoplatform.com/) created ***Prometeo*** as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/prometeo/) that won the top prize in the Global Challenge. In 2021, ***Pyrrha*** was contributed to the Linux Foundation as the open source core of Prometeo in order share the technology and provide a way for others to improve it for the benefit of all.
+[Prometeo Solutions S.L.](https://prometeoplatform.com/) created **_Prometeo_** as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/prometeo/) that won the top prize in the Global Challenge. In 2021, **_Pyrrha_** was contributed to the Linux Foundation as the open source core of Prometeo in order share the technology and provide a way for others to improve it for the benefit of all.
 
-[The Pyrrha mission](Pyrrha-Technical-Charter-July-2021.pdf) is to help protect firefighters from the immediate and long-term health impacts from the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information. 
+[The Pyrrha mission](Pyrrha-Technical-Charter-July-2021.pdf) is to help protect firefighters from the immediate and long-term health impacts from the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information.
 
 Improved by field tests in the Catalonia region of Spain and through the support of IBM Service Corps volunteers, our hope is that Pyrrha can also provide a powerful solution to assist wildlands firefighting teams around the world in their battle against more frequent and more devastating wildfires and bushfires.
 
@@ -31,21 +31,21 @@ The first version of the Pyrrha project has been released as a [Call for Code® 
 
 ## Pyrrha projects
 
-| Name                             | Repository                                                                      |
-| -------------------------------- | ------------------------------------------------------------------------------- |
-| Pyrrha                           | [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha)               |
-| Pyrrha-Dashboard                 | [Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)                |
-| Pyrrha-Database                  | [Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)                  |
+| Name                             | Repository                                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Pyrrha                           | [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha)                                |
+| Pyrrha-Dashboard                 | [Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)                                 |
+| Pyrrha-Database                  | [Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)                                   |
 | Pyrrha-Deployment-Configurations | [Deployment-Configurations](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations) |
-| Pyrrha-Firmware                  | [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                  |
-| Pyrrha-Hardware                  | [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                  |
-| Pyrrha-Mobile-App                | [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)              |
-| Pyrrha-MQTT-Client               | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)            |
-| Pyrrha-Rules-Decision            | [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)      |
-| Pyrrha-Sensor-Simulator          | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)  |
-| Pyrrha-Watch-App                 | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                |
-| Pyrrha-Website                   | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                  |
-| Pyrrha-Websocket-Server          | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)  |
+| Pyrrha-Firmware                  | [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                                   |
+| Pyrrha-Hardware                  | [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                                   |
+| Pyrrha-Mobile-App                | [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)                               |
+| Pyrrha-MQTT-Client               | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)                             |
+| Pyrrha-Rules-Decision            | [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)                       |
+| Pyrrha-Sensor-Simulator          | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)                   |
+| Pyrrha-Watch-App                 | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                                 |
+| Pyrrha-Website                   | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                                     |
+| Pyrrha-Websocket-Server          | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)                   |
 
 ## The story
 
@@ -92,13 +92,13 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 
 ## Original Prometeo team
 
-| Name                           | GitHub                                | Slack                  |
-| ------------------------------ | ------------------------------------- | ---------------------- |
-| Josep Ràfols                   | ---                                   | @joraco                |
-| Marco Emilio Rodriguez Serrano | [Marco](https://github.com/mrodrise)  | @marco.rodriguez.serra |
-| Salome Valero Cumplido         | [Salome](https://github.com/svaleroc) | @salome.valero         |
-| Joan Herrera                   | ---                                   | ---                    |
-| Vicenç Ferrés                  | ---                                   | ---                    |
+| Name                           | Title                | GitHub                                 | Slack                  |
+| ------------------------------ | -------------------- | -------------------------------------- | ---------------------- |
+| Marco Emilio Rodriguez Serrano | Data scientist       | [Marco](https://github.com/mrodrise)   | @marco.rodriguez.serra |
+| Salome Valero Cumplido         | PhD engineer         | [Salome](https://github.com/svaleroc)  | @salome.valero         |
+| Josep Ràfols                   | Full stack developer | [Josep](https://github.com/joraco-dev) | @joraco                |
+| Joan Herrera                   | Firefighter          | ---                                    | ---                    |
+| Vicenç Ferrés                  | Nurse/EMT            | ---                                    | ---                    |
 
 ## Prometeo Platform S.L. team
 
@@ -106,7 +106,7 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | ------------------------------ | ----- | ------------------------------------- | ---------------------- |
 | Salome Valero Cumplido         | CEO   | [Salome](https://github.com/svaleroc) | @salome.valero         |
 | Marco Emilio Rodriguez Serrano | CTO   | [Marco](https://github.com/mrodrise)  | @marco.rodriguez.serra |
-| Joan Herrera                   | COO   | ---                                   | ---   
+| Joan Herrera                   | COO   | ---                                   | ---                    |
 
 ## IBM Call for Code team
 
@@ -116,8 +116,6 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Upkar Lidder      | Technical Lead                   | [Upkar](https://github.com/upkarlidder)    | @upkarlidder       |
 | Taeson Black      | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack)         | @tae.black         |
 | Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @alejandro.quijada |
-
-                 |
 
 ## IBM Service Corps team
 
