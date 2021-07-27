@@ -12,12 +12,10 @@ Improved by field tests in the Catalonia region of Spain and through the support
 
 - [Get started](#get-started)
 - [Pyrrha v1 (Prometeo v4)](#pyrrha-v1-prometeo-v4)
-- [Pyrrha projects](#pyrrha-projects)
 - [The story](#the-story)
-- [Built with](#built-with)
-- [Get involved](#get-involved)
 - [Solution at a glance](#solution-at-a-glance)
-- [Important links](#important-links)
+- [Pyrrha projects](#pyrrha-projects)
+- [Built with](#built-with)
 - [Original Prometeo team](#original-prometeo-team)
 - [IBM Call for Code team](#ibm-call-for-code-team)
 - [Prometeo Platform S.L. Team](#prometeo-platform-sl-team)
@@ -29,44 +27,11 @@ Improved by field tests in the Catalonia region of Spain and through the support
 
 The first version of the Pyrrha project has been released as a [Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/) project. Pyrrha will carry on as a separate name distinct from the Prometeo Solutions trademark, the [flame-colored haired daughter-in-law of Prometheus in Greek mythology](https://www.greekmythology.com/Myths/Mortals/Pyrrha/pyrrha.html).
 
-## Pyrrha projects
-
-| Name                             | Repository                                                                                       |
-| -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Pyrrha                           | [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha)                                |
-| Pyrrha-Dashboard                 | [Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)                                 |
-| Pyrrha-Database                  | [Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)                                   |
-| Pyrrha-Deployment-Configurations | [Deployment-Configurations](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations) |
-| Pyrrha-Firmware                  | [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                                   |
-| Pyrrha-Hardware                  | [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                                   |
-| Pyrrha-Mobile-App                | [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)                               |
-| Pyrrha-MQTT-Client               | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)                             |
-| Pyrrha-Rules-Decision            | [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)                       |
-| Pyrrha-Sensor-Simulator          | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)                   |
-| Pyrrha-Watch-App                 | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                                 |
-| Pyrrha-Website                   | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                                     |
-| Pyrrha-Websocket-Server          | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)                   |
-
 ## The story
 
 Watch this video to learn about the Pyrrha solution based on Prometeo's original Call for Code 2019 winning application:
 
 [![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
-
-## Get involved
-
-Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contribute to the Pyrrha Project.
-
-## Built with
-
-- [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
-- [MariaDB](https://mariadb.org/)
-- [Express.js](https://expressjs.com/)
-- [React.js](https://reactjs.org/)
-- [Flask](https://palletsprojects.com/p/flask/)
-- [Pandas](https://pandas.pydata.org/)
-- [IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
-- [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 
 ## Solution at a glance
 
@@ -84,11 +49,40 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 10. The command center can view the dashboard using the web browser on a laptop or tablet.
 11. The mobile application regularly requests status from the Rules-Decision service and emits the result via device LED and Samsung phone/watch vibrations.
 
-## Important links
+## Pyrrha projects
 
-| Description    | Link                        |
-| -------------- | --------------------------- |
-| Pyrrha Website | https://pyrrha-platform.org |
+| Name                                                                                             | What it does                                                                                       |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [Pyrrha](https://github.com/Call-for-Code/Pyrrha-Platform/Pyrrha)                                | This repository, the main landing page for learning project details.                               |
+| [Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)                                 | The Carbon and React based dashboard that shows real-time readings and long-term averages.         |
+| [Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)                                   | The MariaDB database where real-time readings are stored and along with calculated averages.       |
+| [Deployment-Configurations](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations) | Various GitHub Actions, Helm Charts, and other deployment assets and configuration files.          |
+| [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                                   | The Arduino based sketch that connects the device to Bluetooth and stores sensor data.             |
+| [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                                   | The Arduino microcontroller, battery, and sensor configurations. Moving towards PCB.               |
+| [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)                               | The Android Java application that targets Samsung smartphones. Relays sensor data from the device. |
+| [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)                             | Consumes MQTT messages and stores them in the database for persistence and relays over WebSocket.  |
+| [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)                       | Analyzes the raw sensor readings and performs calculations to determine exposure over time.        |
+| [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)                   | Generates sample data that can simulate readings in the absense of a physical device.              |
+| [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                                 | The Tizen Web App for Samsung Galaxy smartwatches that can display readings and vibrate alerts.    |
+| [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                                     | The Carbon and React based single page application for the pyrrha-platform.org site.               |
+| [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)                   | Relays messages in real time to the dashboard which can be monitored by the control center.        |
+
+## Built with
+
+- [IBM IoT Platform](https://www.ibm.com/cloud/internet-of-things)
+- [MariaDB](https://mariadb.org/)
+- [Express.js](https://expressjs.com/)
+- [React.js](https://reactjs.org/)
+- [Flask](https://palletsprojects.com/p/flask/)
+- [Pandas](https://pandas.pydata.org/)
+- [IBM App ID](https://www.ibm.com/cloud/app-id?lnk=STW_US_STESCH&lnk2=learn_CloudAppID&pexp=DEF&psrc=NONE&mhsrc=ibmsearch_a&mhq=app%20id%20ibm%20cloud)
+- [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
+
+## Get involved
+
+Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contribute to the Pyrrha Project.
+
+We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #prometeo-pyrrha channel for discussion.
 
 ## Original Prometeo team
 
@@ -132,10 +126,6 @@ Please read [GET_INVOLVED.md](GET_INVOLVED.md) to understand how you can contrib
 | Samantha Davis              |
 | Upkar Lidder                |
 | Vince Siu                   |
-
-## Public tools
-
-We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #prometeo-pyrrha channel for discussion.
 
 ## License
 
