@@ -1,16 +1,16 @@
-## Get Involved
+## Get involved
 
 There are multiple ways to contribute to the Pyrrha project, such as:
 
 - **Code**
-  - [Project board](https://github.com/orgs/Pyrrha-Platform/projects/1): You can find all of the current issues everyone is working on, as well as what needs to be started.
-  - Good first issue: Be sure to check out the issues labeled **_good first issue_** on the project board. This is a great start for someone who is new to open source projects.
-- **Marketing**
-  - Help advertise Pyrrha on social media platforms (LinkedIn, Twitter, etc.) or by sharing it with friends who may be interested in contributing.
+  - [Project board](https://github.com/orgs/Pyrrha-Platform/projects/1): You can find all of the current issues being tracked, as well as what needs to be started.
+  - Good first issue: Be sure to check out the issues labeled **_good first issue_** on the project board. This is a great start for someone who is new to this open source project.
+- **Community building**
+  - Raise awareness of Pyrrha on social media platforms (LinkedIn, Twitter, etc.) or by sharing it with friends who may be interested in contributing.
 - **Design work**
-  - Help out with improving the design of the website, proposing a new logo, or create content such as a video that highlights the project.
+  - Help out with improving the design of the website, proposing a new logo, or create content such as a video that highlights usage of the project.
 
-## How To's:
+## How to's:
 
 - **Pull Requests:**
   - Describe at a high level the solution you're providing.
@@ -45,13 +45,13 @@ There are multiple ways to contribute to the Pyrrha project, such as:
     3. Browser [e.g. stock browser, safari]
     4. Version [e.g. 22]
 
-  - Additional context Add any other context about the problem here.
+  - Additional context. Add any other context about the problem here.
 
-- **New Ideas:**
+- **New ideas:**
   - Feel free to collaborate/discuss ideas on Slack on how the project could be improved.
   - If the new idea you have has already been created/coded, create a pull request which can be reviewed for approval.
 
-## Additional Information:
+## Additional information:
 
 - If this is your first time contributing to an open source project, this [course](https://cognitiveclass.ai/courses/introduction-to-open-source) will teach you everything you will need to know to get started. It is free, self-paced, and can be completed anytime!
 - Learn more about [Call for Code](https://callforcode.org/)
