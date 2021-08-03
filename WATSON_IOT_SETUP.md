@@ -26,6 +26,7 @@ Follow these steps to create an IBM IoT service
    <img width="1920" alt="step4" src="img/step4.png">
 
 ---
+
 ## Connect a Pyrrha device to IBM Watson IoT Platform
 
 Follow these steps to connect a device to IBM Watson IoT Platform
@@ -49,6 +50,7 @@ Follow these steps to connect a device to IBM Watson IoT Platform
    <img width="1920" alt="step10" src="img/step10.png">
 
 ---
+
 ## Connect an application to IBM Watson IoT Platform
 
 Follow these steps to connect an application to IBM Watson IoT Platform.
@@ -69,13 +71,15 @@ Follow these steps to connect an application to IBM Watson IoT Platform.
    <img width="1920" alt="step9b" src="img/step9b.png">
 
 ---
+
 ## Obtain organization ID from the IoT platform
 
 Follow these steps to obtain your organization ID to use in environment files:
+
 1. Log into your IBM Cloud account.
 2. Look for the IoT service under resources and launch the IoT platform.
    ![](img/iot-orgid-launch.png)
 3. Hover over the left menu to open it and then open `Settings`
-    ![](img/iot-orgid-settings.png)
+   ![](img/iot-orgid-settings.png)
 4. You can find your organization ID under `Identity`
    ![](img/iot-orgid-orgid.png)

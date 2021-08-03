@@ -1,0 +1,22 @@
+name: linter
+
+on:
+  # Execute on every push to any branch
+  push:
+    branches:
+      - "**"
+  # Execute on every pull request to the master branch
+  pull_request_target:
+    branches:
+      - main
+
+jobs:
+  linter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up node
+        uses: actions/setup-node@v1
+      - run: npm install -g prettier@2.3.0
+      - run: prettier --check .
