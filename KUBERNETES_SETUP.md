@@ -44,4 +44,4 @@ While your cluster is provisioning, set up your local workstation with the clien
 
 ## Run a deployment containing the Docker container
 
-- TBD upon completion of deployment configurations 
+- TBD upon completion of deployment configurations
