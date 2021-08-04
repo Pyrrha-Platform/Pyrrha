@@ -140,6 +140,14 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 | Daniel Krook                   | IBM                    |
 | Upkar Lidder                   | IBM                    |
 
+### TSC meetings
+
+Wednesdays at 2:30pm ET.
+
+### Townhall meeetings
+
+To be scheduled on a fortnightly basis.
+
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/LICENSE) file for details.
