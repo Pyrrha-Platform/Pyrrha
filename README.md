@@ -84,7 +84,7 @@ Watch this video to learn about the Pyrrha solution based on Prometeo's original
 
 ## Quick Start
 
-The Pyrrha project consists of multiple microservices running in parallel. We have created a docker-compose configuration to help you get started with a development environment. Docker-compose is a tool that enables running multiple containers on the same host using a light weight configuration. The Compose file defines all the services along with the dependencies in the correct order. You can bring up the whole environment by using a single `docker-compose up` command. Follow the instructions in the [DOCKER_COMPOSE.md](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations/blob/main/DOCKER_COMPOSE.md) file to develop pyrrha with Docker Compose.
+The Pyrrha project consists of multiple microservices running in parallel. We have created a Docker Compose configuration to help you get started with a development environment. Docker Compose is a tool that enables running multiple containers on the same host using a lightweight configuration. The Compose file defines all the services along with the dependencies in the correct order. You can bring up the whole environment by using a single `docker-compose up` command. Follow the instructions in the [DOCKER_COMPOSE.md](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations/blob/main/DOCKER_COMPOSE.md) file to develop Pyrrha.
 
 ## Get involved
 
