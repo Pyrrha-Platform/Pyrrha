@@ -149,7 +149,7 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 
 ### TSC meetings
 
-Wednesdays at 2:30pm ET.
+Wednesdays at 2:30pm ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=mf85dc794549ef714e63c4d4983206a3e).
 
 ### Townhall meeetings
 
