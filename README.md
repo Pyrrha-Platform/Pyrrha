@@ -153,6 +153,7 @@ Wednesdays at 2:30pm ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID
 
 #### Recordings
 
+- [Wednesday, September 8, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/d1505e82f301103982fd0050568f6ebb) - `cMNMpkp8`
 - [Wednesday, September 1, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/960cebd6ed811039bdbe0050568ffb55) - `eUr8t7tM`
 
 ## License
