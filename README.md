@@ -154,6 +154,7 @@ Wednesdays at 2:30pm ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID
 #### Recordings
 
 - [Wednesday, September 22, 2021](https://ibm.webex.com/webappng/sites/ibm/recording/bd9713f3fe021039b1fa0050568f2e04/playback) - `SmZKir43`
+- [Wednesday, September 15, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/8c7689ccf8811039b5f60050568f9357/playback) - `RssuZpk4`
 - [Wednesday, September 8, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/d1505e82f301103982fd0050568f6ebb) - `cMNMpkp8`
 - [Wednesday, September 1, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/960cebd6ed811039bdbe0050568ffb55) - `eUr8t7tM`
 
