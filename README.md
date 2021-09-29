@@ -151,6 +151,10 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 
 Wednesdays at 2:30pm ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=mf85dc794549ef714e63c4d4983206a3e).
 
+#### Minutes
+
+- [Notes in the wiki](https://github.com/Pyrrha-Platform/Pyrrha/wiki)
+
 #### Recordings
 
 - [Wednesday, September 22, 2021](https://ibm.webex.com/webappng/sites/ibm/recording/bd9713f3fe021039b1fa0050568f2e04/playback) - `SmZKir43`
