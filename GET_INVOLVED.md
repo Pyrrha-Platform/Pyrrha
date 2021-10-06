@@ -1,4 +1,4 @@
-## Get involved
+# Get involved
 
 There are multiple ways to contribute to the Pyrrha project, such as:
 
