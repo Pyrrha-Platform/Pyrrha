@@ -149,7 +149,7 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 
 ### Public meetings
 
-Wednesdays at 2:30pm ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=mf85dc794549ef714e63c4d4983206a3e).
+Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=mf85dc794549ef714e63c4d4983206a3e).
 
 #### Minutes
 
@@ -158,6 +158,7 @@ Wednesdays at 2:30pm ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID
 #### Recordings
 
 - [Wednesday, October 6, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/e492aa800901103abfd90050568ffafd/playback) - `DwbbdKy2`
+- [Wednesday, September 29, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/902ff9920381103a9d770050568fca64/playback) - `NvpQ6v2C`
 - [Wednesday, September 22, 2021](https://ibm.webex.com/webappng/sites/ibm/recording/bd9713f3fe021039b1fa0050568f2e04/playback) - `SmZKir43`
 - [Wednesday, September 15, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/8c7689ccf8811039b5f60050568f9357/playback) - `RssuZpk4`
 - [Wednesday, September 8, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/d1505e82f301103982fd0050568f6ebb) - `cMNMpkp8`
