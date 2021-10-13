@@ -23,8 +23,7 @@ Improved by field tests in the Catalonia region of Spain and through the support
 - [IBM Call for Code team](#ibm-call-for-code-team)
 - [IBM Service Corps team](#ibm-service-corps-team)
 - [Technical Steering Committee](#technical-steering-committee)
-  - [TSC meetings](#tsc-meetings)
-  - [Townhall meeetings](#townhall-meeetings)
+- [Public meetings](#public-meetings)
 - [License](#license)
 
 ## Pyrrha v1 (Prometeo v4)
@@ -147,15 +146,15 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 | Daniel Krook                   | IBM                    |
 | Upkar Lidder                   | IBM                    |
 
-### Public meetings
+## Public meetings
 
 Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=mf85dc794549ef714e63c4d4983206a3e).
 
-#### Minutes
+### Minutes
 
 - [Notes in the wiki](https://github.com/Pyrrha-Platform/Pyrrha/wiki)
 
-#### Recordings
+### Recordings
 
 - [Wednesday, October 6, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/e492aa800901103abfd90050568ffafd/playback) - `DwbbdKy2`
 - [Wednesday, September 29, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/902ff9920381103a9d770050568fca64/playback) - `NvpQ6v2C`
