@@ -164,7 +164,7 @@ Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?M
 - Wednesday, November 24, 2021 - Scheduled
 - Wednesday, November 17, 2021 - Scheduled
 - Wednesday, November 10, 2021 - Scheduled
-- Wednesday, November 3, 2021 - Scheduled
+- [Wednesday, November 3, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/4fb43b941f02103ab5bf0050568fa1a2/playback) - `JqNZJUY2`
 - Wednesday, October 27, 2021 - No meeting
 - [Wednesday, October 20, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/417c7c931402103abff9005056815191/playback) - `vNjR39SB`
 - [Wednesday, October 13, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/2224f3250e82103abfbd0050568f9357/playback) - `cFV3cYuX`
