@@ -156,9 +156,10 @@ Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?M
 
 ### Recordings
 
-- Wednesday, January 26, 2021 - Scheduled
-- [Wednesday, January 19, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/aee7ce635b8c103ab6ff0050568fca64) - `xAWFKFF5`
-- [Wednesday, January 12, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/777b5034560c103ab77d0050568fac24/playback) - `FmNhJ55F`
+- Wednesday, February 2, 2022 - Scheduled
+- [Wednesday, January 26, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/26b1f84c610d103a9ef20050568166c3) - `mZdfFeM6`
+- [Wednesday, January 19, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/aee7ce635b8c103ab6ff0050568fca64) - `xAWFKFF5`
+- [Wednesday, January 12, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/777b5034560c103ab77d0050568fac24/playback) - `FmNhJ55F`
 - [Wednesday, December 1, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/eb4313ec350b103ab7ff005056816d72) - `ThEGSPS5`
 - [Wednesday, November 24, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/8fad443f2f8b103aac670050568f31a0) - `gNwaH8np`
 - [Wednesday, November 10, 2021](https://ibm.webex.com/recordingservice/sites/ibm/recording/494731d7248b103ab7fe0050568ff097/playback) - `nKHdxyB8`
