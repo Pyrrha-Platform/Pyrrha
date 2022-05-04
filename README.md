@@ -117,6 +117,7 @@ We use [Slack in the Call for Code workspace](https://callforcode.org/slack) #pr
 | Upkar Lidder      | Technical Lead                   | [Upkar](https://github.com/upkarlidder)    | @upkarlidder       |
 | Taeson Black      | Tech. Solution Specialist Intern | [Tae](https://github.com/TaeBlack)         | @tae.black         |
 | Alejandro Quijada | Tech. Solution Specialist Intern | [Alejandro](https://github.com/Aquijada52) | @alejandro.quijada |
+| Charlie Evans     | Software Engineer                | [Charlie](https://github.com/hawk4031)     | @Charlie Evans     |
 
 ## IBM Service Corps team
 
@@ -156,6 +157,7 @@ Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?M
 
 ### Recordings
 
+- [Wednesday, May 4, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/b7da73a8ae06103abffe00505681593c) - `fXaf9xGR`
 - [Wednesday, April 27, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/a4e59876a886103a9bfe005056813522) - `Pj6jRFqm`
 - [Wednesday, April 13, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/581d4ef79d86103abf9c005056817f61) - `wCCGx8Rx`
 - [Wednesday, April 6, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/32d8a4099806103ab8ed00505681cf8d) - `Bw2GJeJH`
