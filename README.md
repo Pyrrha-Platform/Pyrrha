@@ -156,6 +156,7 @@ Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?M
 - [Notes in the wiki](https://github.com/Pyrrha-Platform/Pyrrha/wiki)
 
 ### Recordings
+
 - [Wednesday, June 29, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/3f165f64da08103aaebe005056813e8f) - `8JkDPRsZ`
 - [Wednesday, May 25, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/4c841b4dbe87103a9ed600505681ab5a) - `Smb4Afyq`
 - [Wednesday, May 18, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/c3c02f29b906103a887c005056819d82) - `5Xg5R4w9`
