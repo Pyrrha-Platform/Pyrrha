@@ -149,7 +149,7 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 
 ## Public meetings
 
-Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=m5743406c4328d840261b34ce5aeb0bf6).
+Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=md48902e87c85e0509364dd4db7d1ecb5).
 
 ### Minutes
 
