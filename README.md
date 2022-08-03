@@ -145,7 +145,7 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 | Marco Emilio Rodriguez Serrano | Prometeo Platform S.L. |
 | Joan Herrera                   | Prometeo Platform S.L. |
 | Daniel Krook                   | IBM                    |
-| Upkar Lidder                   | IBM                    |
+| Upkar Lidder                   | Independent            |
 
 ## Public meetings
 
