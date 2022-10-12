@@ -157,6 +157,7 @@ Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?M
 
 ### Recordings
 
+- [Wednesday, October 12, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/356b1f7d2c8a103bbffb00505681307d/playback) - `AafsXeq3`
 - [Wednesday, September 14, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/f4981a631689103baf6e00505681cc21/playback) - `tK3VFmqP`
 - [Wednesday, July 27, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/35a9d48df009103abe5f00505681a350) - `MsRFCEF5`
 - [Wednesday, June 29, 2022](https://ibm.webex.com/recordingservice/sites/ibm/recording/playback/3f165f64da08103aaebe005056813e8f) - `8JkDPRsZ`
