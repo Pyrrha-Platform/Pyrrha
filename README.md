@@ -144,12 +144,12 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 | Salome Valero Cumplido         | Prometeo Platform S.L. |
 | Marco Emilio Rodriguez Serrano | Prometeo Platform S.L. |
 | Joan Herrera                   | Prometeo Platform S.L. |
-| Daniel Krook                   | The Linux Foundation.  |
+| Daniel Krook                   | The Linux Foundation   |
 | Upkar Lidder                   | Independent            |
 
 ## Public meetings
 
-Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=md48902e87c85e0509364dd4db7d1ecb5).
+Historical meeting notes and recordings.
 
 ### Minutes
 
