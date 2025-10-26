@@ -10,7 +10,7 @@ There are multiple ways to contribute to the Pyrrha project, such as:
 - **Design work**
   - Help out with improving the design of the website, proposing a new logo, or create content such as a video that highlights usage of the project.
 
-## How to's:
+## How to's
 
 - **Pull Requests:**
   - Describe at a high level the solution you're providing.
@@ -51,7 +51,7 @@ There are multiple ways to contribute to the Pyrrha project, such as:
   - Feel free to collaborate/discuss ideas on Slack on how the project could be improved.
   - If the new idea you have has already been created/coded, create a pull request which can be reviewed for approval.
 
-## Additional information:
+## Additional information
 
 - If this is your first time contributing to an open source project, this [course](https://cognitiveclass.ai/courses/introduction-to-open-source) will teach you everything you will need to know to get started. It is free, self-paced, and can be completed anytime!
 - Learn more about [Call for Code](https://callforcode.org/)

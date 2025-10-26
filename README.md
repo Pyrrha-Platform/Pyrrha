@@ -4,7 +4,7 @@
 
 [Prometeo Solutions S.L.](https://prometeoplatform.com/) created **_Prometeo_** as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/prometeo/) that won the top prize in the Global Challenge. In 2021, **_Pyrrha_** was contributed to the Linux Foundation as the open source core of Prometeo in order share the technology and provide a way for others to improve it for the benefit of all.
 
-[The Pyrrha mission](Pyrrha-Technical-Charter-July-2021.pdf) is to help protect firefighters from the immediate and long-term health impacts from the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information.
+[The Pyrrha mission](Pyrrha-Technical-Charter-July-2021.pdf) is to help protect firefighters from the immediate and long-term health impacts from the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom devices, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information.
 
 Improved by field tests in the Catalonia region of Spain and through the support of IBM Service Corps volunteers, our hope is that Pyrrha can also provide a powerful solution to assist wildlands firefighting teams around the world in their battle against more frequent and more devastating wildfires and bushfires.
 
@@ -41,7 +41,7 @@ Watch this video to learn about the Pyrrha solution based on Prometeo's original
 ![prometeo:pyrrha diagram](https://user-images.githubusercontent.com/3187457/122242264-08903d00-ce78-11eb-944f-804ba4dc683d.png)
 
 1. The firefighter logs into the ruggedized Samsung smartphone via IBM App ID. Devices are paired through Bluetooth.
-2. The device sensors capture toxin levels. The device sends stored readings to the phone at regular intervals.
+2. The device captures toxin levels. The device sends stored readings to the phone at regular intervals.
 3. The mobile application relays data to the IBM IoT platform.
 4. The MQTT client service listens for incoming messages from the IBM IoT platform.
 5. The MQTT client stores the data in the MariaDB relational database.
@@ -60,11 +60,11 @@ Watch this video to learn about the Pyrrha solution based on Prometeo's original
 | [Dashboard](https://github.com/Pyrrha-Platform/Pyrrha-Dashboard)                                 | The Carbon and React based dashboard that shows real-time readings and long-term averages.         |
 | [Database](https://github.com/Pyrrha-Platform/Pyrrha-Database)                                   | The MariaDB database where real-time readings are stored and along with calculated averages.       |
 | [Deployment-Configurations](https://github.com/Pyrrha-Platform/Pyrrha-Deployment-Configurations) | Various GitHub Actions, Helm Charts, and other deployment assets and configuration files.          |
-| [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                                   | The Arduino based sketch that connects the device to Bluetooth and stores sensor data.             |
-| [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                                   | The Arduino microcontroller, battery, and sensor configurations. Moving towards PCB.               |
-| [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)                               | The Android Java application that targets Samsung smartphones. Relays sensor data from the device. |
+| [Firmware](https://github.com/Pyrrha-Platform/Pyrrha-Firmware)                                   | The Arduino based sketch that connects the device to Bluetooth and stores device data.             |
+| [Hardware](https://github.com/Pyrrha-Platform/Pyrrha-Hardware)                                   | The Arduino microcontroller, battery, and device configurations. Moving towards PCB.               |
+| [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)                               | The Android Java application that targets Samsung smartphones. Relays device data from the device. |
 | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)                             | Consumes MQTT messages and stores them in the database for persistence and relays over WebSocket.  |
-| [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)                       | Analyzes the raw sensor readings and performs calculations to determine exposure over time.        |
+| [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)                       | Analyzes the raw device readings and performs calculations to determine exposure over time.        |
 | [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)                   | Generates sample data that can simulate readings in the absense of a physical device.              |
 | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                                 | The Tizen Web App for Samsung Galaxy smartwatches that can display readings and vibrate alerts.    |
 | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                                     | The Carbon and React based single page application for the pyrrha-platform.org site.               |
@@ -144,12 +144,12 @@ Per the [The Pyrrha Technical Charter](Pyrrha-Technical-Charter-July-2021.pdf)
 | Salome Valero Cumplido         | Prometeo Platform S.L. |
 | Marco Emilio Rodriguez Serrano | Prometeo Platform S.L. |
 | Joan Herrera                   | Prometeo Platform S.L. |
-| Daniel Krook                   | IBM                    |
+| Daniel Krook                   | The Linux Foundation   |
 | Upkar Lidder                   | Independent            |
 
 ## Public meetings
 
-Wednesdays at 2:30pm US ET. [Join us on Webex](https://ibm.webex.com/ibm/j.php?MTID=md48902e87c85e0509364dd4db7d1ecb5).
+Historical meeting notes and recordings.
 
 ### Minutes
 
