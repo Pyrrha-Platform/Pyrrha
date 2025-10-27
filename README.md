@@ -65,7 +65,7 @@ Watch this video to learn about the Pyrrha solution based on Prometeo's original
 | [Mobile-App](https://github.com/Pyrrha-Platform/Pyrrha-Mobile-App)                               | The Android Java application that targets Samsung smartphones. Relays device data from the device. |
 | [MQTT-Client](https://github.com/Pyrrha-Platform/Pyrrha-MQTT-Client)                             | Consumes MQTT messages and stores them in the database for persistence and relays over WebSocket.  |
 | [Rules-Decision](https://github.com/Pyrrha-Platform/Pyrrha-Rules-Decision)                       | Analyzes the raw device readings and performs calculations to determine exposure over time.        |
-| [Sensor-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Sensor-Simulator)                   | Generates sample data that can simulate readings in the absense of a physical device.              |
+| [Device-Simulator](https://github.com/Pyrrha-Platform/Pyrrha-Device-Simulator)                   | Generates sample data that can simulate readings in the absense of a physical device.              |
 | [Watch-App](https://github.com/Pyrrha-Platform/Pyrrha-Watch-App)                                 | The Tizen Web App for Samsung Galaxy smartwatches that can display readings and vibrate alerts.    |
 | [Website](https://github.com/Pyrrha-Platform/Pyrrha-Website)                                     | The Carbon and React based single page application for the pyrrha-platform.org site.               |
 | [WebSocket-Server](https://github.com/Pyrrha-Platform/Pyrrha-WebSocket-Server)                   | Relays messages in real time to the dashboard which can be monitored by the control center.        |
